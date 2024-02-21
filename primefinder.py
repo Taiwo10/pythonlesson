@@ -18,5 +18,5 @@ def findPrime(number):
 findPrime(number)
         
     
-        
+    #   second trial of  pushing code tgo github
         
